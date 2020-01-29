@@ -26,7 +26,7 @@ from setuptools import setup
 
 setup(
     name='pyconnectify',
-    version='0.0.2',
+    version='0.0.2.1',
     url='https://gitlab.com/israelcunha/PyConnectify',
     license='MIT License',
     author='Israel Cunha',
@@ -34,6 +34,7 @@ setup(
     keywords='ssh utp tcp tar redes network',
     description=u'Telecommunication and file management application',
     packages=['pyconnectify'],
+    long_description_content_type="text/markdown",
     long_description=open('README.md').read(),
     install_requires=[],
 )

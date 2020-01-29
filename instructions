@@ -1,0 +1,5 @@
+Empacotar app
+python setup.py sdist
+
+Upload App
+twine upload dist/*

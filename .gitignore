@@ -1,3 +1,7 @@
 .idea/*
 venv/*
 venv/
+dist/
+dist/*
+pyconnectify.egg-info/
+pyconnectify.egg-info/*
